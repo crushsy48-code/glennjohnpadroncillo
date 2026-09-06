@@ -1079,7 +1079,7 @@
 
             <p>
                 <a
-                    href="https://www.linkedin.com/"
+                    href="https://www.facebook.com/gpadroncillo"
                     target="_blank"
                     rel="noopener"
                 >
